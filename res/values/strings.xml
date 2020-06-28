@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestion_usuario</string>
+    <string-array name="spiGenerosJuegos">
+        <item>Acción</item>
+        <item>Aventura</item>
+        <item>Disparos</item>
+        <item>RPG</item>
+        <item>Carreras</item>
+        <item>Plataformas</item>
+        <item>Ritmo</item>
+    </string-array>
+</resources>
